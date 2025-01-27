@@ -146,8 +146,7 @@ img {
         width: 480px;
     } */
     .row{
-        flex-direction: column;
-        align-items: center;
+        flex-wrap: wrap;
     }
     .lessons .col{
         width: 100%;
